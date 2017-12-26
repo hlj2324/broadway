@@ -1,0 +1,10 @@
+body{text-align:center;}
+.background{background-image:url('images/the-flatiron-building.png');}
+#largename{front-family:helvetica;font-size:70px;font-weight:bold;color:white;}
+.list{font-family:helvetica;font-size:18px;color:white;}
+#mediumname{font-family:helvetica;font-size:32px;font-weight:bold;}
+.heading{font-family:helvetica;font-size:23px;font-weight:bold;}
+.description{font-family:helvetica; font-size:14px;}
+#smallname{font-family:helvetica;font-size:23px;font-weight:bold;color:white;}
+#trademark{font-family:helvetica;font-size:11px;color:white;}
+.endstrip{background-color:dimgray;text-align: left;}
